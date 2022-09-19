@@ -5,7 +5,7 @@ import "./Rabbit--animations.css";
 
 export function Rabbit({ className }) {
   function handleOnClick() {
-    alert("Ya vamos a jugar!!!!!!!!!!!!!!!!!!!!!!!");
+    alert("Hello, I'm a rabbit!");
   }
   return (
     <div
